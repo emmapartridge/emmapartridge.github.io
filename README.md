@@ -2,6 +2,13 @@
 
 <body>
 
+<!-- Navigation Bar -->
+<div style="background-color: #f2f2f2; padding: 10px;">
+  <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Home</a>
+  <a href="ourteam.html" style="text-decoration: none; font-weight: bold;">Our Team</a>
+  
+</div>
+
   <h1 style="color: #006699; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
 
   <p style="font-size: 18px; color: #333;">
@@ -33,7 +40,6 @@
     <strong>Core Values:</strong> Innovation, Collaboration, Transparency, Discovery, Credibility
   </p>
 
-  <p><a href="ourteam.html">Meet Our Team →</a></p>
 </body>
 
 
