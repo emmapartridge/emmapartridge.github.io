@@ -32,6 +32,8 @@
   <p style="font-size: 18px; color: #333;">
     <strong>Core Values:</strong> Innovation, Collaboration, Transparency, Discovery, Credibility
   </p>
+
+  <p><a href="ourteam.html">Meet Our Team →</a></p>
 </body>
 
 
