@@ -8,4 +8,5 @@
     coupled with dedicated enhancement of animal and human health through translational scientific discoveries.
   </p>
 </body>
-![image](https://github.com/user-attachments/assets/0aa1a783-fa63-4dc5-94e5-684c61976651)
+
+![CHIRP_Logo-1](https://github.com/user-attachments/assets/a16c97e6-ee96-4346-90d9-418595643306)
