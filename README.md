@@ -1,6 +1,8 @@
 <body>
   <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
-
+  
+![CHIRP_Logo-1](https://github.com/user-attachments/assets/a16c97e6-ee96-4346-90d9-418595643306)
+  
   <p>
     CHIRP is comprised of a team of basic research and clinician scientists at the forefront of cutting-edge research and innovative study design.
     CHIRP was developed to streamline multidisciplinary research with a specific focus on team science.
@@ -25,4 +27,4 @@ Promote lifelong academic curiosity within the both the local and global scienti
 Core Values: Innovation, Collaboration, Transparency, Discovery, Credibility
 </body>
 
-![CHIRP_Logo-1](https://github.com/user-attachments/assets/a16c97e6-ee96-4346-90d9-418595643306)
+
