@@ -12,7 +12,7 @@
   <a href="contact.html" style="text-decoration: none; font-weight: bold;">Contact Us</a>
 </div>
 
-  <h1 style="color: #fbfbf9; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
+  <h1 style="color: #333; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
 
   <p style="font-size: 18px; color: #333;">
     CHIRP is comprised of a team of basic research and clinician scientists at the forefront of cutting-edge research and innovative study design.
