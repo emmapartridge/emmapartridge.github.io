@@ -1,13 +1,13 @@
 ![Red Simple Photo Graduation Class 2024 Greeting Banner](https://github.com/user-attachments/assets/4f4964d9-0aeb-4f34-a54e-4ed953ea6726)
 <body>
 <!-- Navigation Bar -->
-<div style="background-color: #bf1331; padding: 10px;">
-  <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9;">Home</a>
-  <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Our Team</a>
-  <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Clinical Trials</a>
-  <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Conferences</a>
-  <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Educational</a>
-  <a href="contact.html" style="text-decoration: none; font-weight: bold; color: fbfbf9">Contact Us</a>
+<div style="background-color: #333; padding: 10px;"> 
+  <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Home</a>
+  <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Our Team</a>
+  <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Clinical Trials</a>
+  <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Conferences</a>
+  <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Educational</a>
+  <a href="contact.html" style="text-decoration: none; font-weight: bold; color: #fbfbf9;">Contact Us</a>
 </div>
 
   <h1 style="color: #333; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
