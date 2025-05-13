@@ -1,7 +1,5 @@
 ![Red Simple Photo Graduation Class 2024 Greeting Banner](https://github.com/user-attachments/assets/4f4964d9-0aeb-4f34-a54e-4ed953ea6726)
-
 <body>
-
 <!-- Navigation Bar -->
 <div style="background-color: #bf1331; padding: 10px;">
   <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9;">Home</a>
