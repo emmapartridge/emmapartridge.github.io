@@ -5,8 +5,11 @@
 <!-- Navigation Bar -->
 <div style="background-color: #f2f2f2; padding: 10px;">
   <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Home</a>
-  <a href="ourteam.html" style="text-decoration: none; font-weight: bold;">Our Team</a>
-  
+  <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Our Team</a>
+  <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Clinical Trials</a>
+  <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Conferences</a>
+  <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Educational</a>
+  <a href="contact.html" style="text-decoration: none; font-weight: bold;">Contact Us</a>
 </div>
 
   <h1 style="color: #006699; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
