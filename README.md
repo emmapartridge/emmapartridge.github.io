@@ -4,12 +4,12 @@
 
 <!-- Navigation Bar -->
 <div style="background-color: #bf1331; padding: 10px;">
-  <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Home</a>
-  <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Our Team</a>
-  <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Clinical Trials</a>
-  <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Conferences</a>
-  <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold;">Educational</a>
-  <a href="contact.html" style="text-decoration: none; font-weight: bold;">Contact Us</a>
+  <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9;">Home</a>
+  <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Our Team</a>
+  <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Clinical Trials</a>
+  <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Conferences</a>
+  <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: fbfbf9">Educational</a>
+  <a href="contact.html" style="text-decoration: none; font-weight: bold; color: fbfbf9">Contact Us</a>
 </div>
 
   <h1 style="color: #333; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
