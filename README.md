@@ -1,4 +1,4 @@
-![Screenshot 2025-05-13 192548](https://github.com/user-attachments/assets/7b524270-32a8-40e6-9509-28921799c207)
+<img src="https://github.com/user-attachments/assets/7b524270-32a8-40e6-9509-28921799c207" alt="CHIRP Banner" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 <body style="background-color: #fbfbf9;">
 <!-- Navigation Bar -->
 <div style="background-color: #bf1331; padding: 10px;"> 
