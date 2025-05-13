@@ -1,3 +1,8 @@
+<style>
+  body {
+    background-color: #fbfbf9;
+  }
+</style>
 ![Red Simple Photo Graduation Class 2024 Greeting Banner](https://github.com/user-attachments/assets/4f4964d9-0aeb-4f34-a54e-4ed953ea6726)
 <body>
 <!-- Navigation Bar -->
