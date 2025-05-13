@@ -1,6 +1,3 @@
-<body>
-  <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
-  
 ![CHIRP_Logo-1](https://github.com/user-attachments/assets/a16c97e6-ee96-4346-90d9-418595643306)
 
 <body>
