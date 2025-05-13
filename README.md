@@ -8,3 +8,4 @@
     coupled with dedicated enhancement of animal and human health through translational scientific discoveries.
   </p>
 </body>
+![image](https://github.com/user-attachments/assets/0aa1a783-fa63-4dc5-94e5-684c61976651)
