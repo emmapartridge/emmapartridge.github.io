@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My Website</title>
-    <style>
-      html, body {
-        margin: 0;
-        padding: 0;
-        background-color: #fbfbf9;
-      }
-    </style>
-  </head>
 ![Red Simple Photo Graduation Class 2024 Greeting Banner](https://github.com/user-attachments/assets/4f4964d9-0aeb-4f34-a54e-4ed953ea6726)
 <body>
 <!-- Navigation Bar -->
