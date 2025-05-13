@@ -1,5 +1,4 @@
-![CHIRP_Logo-1](https://github.com/user-attachments/assets/14c0eda0-8486-4e92-a326-458f199ff121)
-
+![CHIRP_Logo-1](https://github.com/user-attachments/assets/4b97a3f1-25b4-4c1c-8ca1-b9df5897798d)
 
 <body>
 
