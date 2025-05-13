@@ -1,4 +1,4 @@
-![CHIRP_Logo-1](https://github.com/user-attachments/assets/4b97a3f1-25b4-4c1c-8ca1-b9df5897798d)
+![Red Simple Photo Graduation Class 2024 Greeting Banner](https://github.com/user-attachments/assets/4f4964d9-0aeb-4f34-a54e-4ed953ea6726)
 
 <body>
 
