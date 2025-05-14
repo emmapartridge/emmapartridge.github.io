@@ -20,13 +20,16 @@
     coupled with dedicated enhancement of animal and human health through translational scientific discoveries.
   </p>
 
+
   <p style="font-size: 18px; color: #333;">
     <strong>Vision:</strong> Establish an integrated research team dedicated to leading multidisciplinary research endeavors aimed at enhancing hepatobiliary and intestinal comparative and translational medicine.
   </p>
 
+
   <p style="font-size: 18px; color: #333;">
     <strong>Mission:</strong> To advance collaborative research at the interface of animal and human health.
   </p>
+
 
   <p style="font-size: 18px; color: #333;">
     <strong>Strategic Goals:</strong>
@@ -38,8 +41,10 @@
     </ul>
   </p>
 
+
   <p style="font-size: 18px; color: #333;">
     <strong>Core Values:</strong> Innovation, Collaboration, Transparency, Discovery, Credibility
   </p>
+
 
 </body>
