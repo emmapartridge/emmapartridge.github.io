@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/01ecaef4-a4eb-4eb8-8082-2a5a14c97853" alt="CHIRP Banner" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 <body style="b![Uploading Screenshot 2025-05-13 192548.png…]()
-ackground-color: #fbfbf9;">
+<body background-color: #fbfbf9;">
 <!-- Navigation Bar -->
 <div style="background-color: #bf1331; padding: 10px;"> 
   <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Home</a>
