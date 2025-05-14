@@ -12,6 +12,7 @@
       font-family: sans-serif;
     }
 
+    /* Navigation Bar */
     .navbar {
       background-color: #bf1331;
       padding: 10px;
@@ -25,12 +26,20 @@
       color: #fbfbf9;
     }
 
-    /* Vertical Banner - Left and Right */
+    /* Banner Image Styling */
+    .banner-img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0;
+    }
+
+    /* Vertical Banner on Left and Right */
     .vertical-banner {
       position: absolute;
       top: 0;
       bottom: 0;
-      width: 20px; /* You can adjust this width as needed */
+      width: 20px; /* Width of margin image */
       background-color: #bf1331; /* Adjust the color as needed */
     }
 
@@ -42,16 +51,16 @@
       right: 0;
     }
 
+    /* Main Content Area */
     .content {
-      padding: 0 20px;
-      max-width: 100%;
+      padding: 0 3in; /* 3" margin on left and right */
+      margin-top: 20px; /* Space between the banner and content */
     }
 
     h1 {
       color: #333;
       font-size: 32px;
-      margin-top: 10px; /* Adjust this to reduce space between image and text */
-      padding-top: 0; /* Ensure no padding at top */
+      margin-top: 0;
     }
 
     p, li {
@@ -68,15 +77,6 @@
 </head>
 <body>
 
-  <!-- Vertical Banner on Left -->
-  <div class="margin-image-left"></div>
-
-  <!-- Vertical Banner on Right -->
-  <div class="margin-image-right"></div>
-
-  <!-- Banner Image -->
-  <img src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="CHIRP Banner" style="width: 100%; height: auto;">
-
   <!-- Navigation Bar -->
   <div class="navbar">
     <a href="our-team.html">Our Team</a>
@@ -86,6 +86,13 @@
     <a href="educational.html">Educational</a>
     <a href="contact.html">Contact Us</a>
   </div>
+
+  <!-- CHIRP Banner Image -->
+  <img src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="CHIRP Banner" class="banner-img">
+
+  <!-- Vertical Banner Images (Left and Right) -->
+  <div class="vertical-banner vertical-left"></div>
+  <div class="vertical-banner vertical-right"></div>
 
   <!-- Main Content -->
   <div class="content">
@@ -97,12 +104,12 @@
     <p><strong>Mission:</strong> To advance collaborative research at the interface of animal and human health.</p>
 
     <p><strong>Strategic Goals:</strong>
-    <ul>
-      <li>Enhance collaborative research efforts focused on gastrointestinal, liver, and pancreatic diseases of companion animals.</li>
-      <li>Build on the unique and diverse strengths of CHIRP investigators, the OSU CVM, and broader OSU community to integrate expertise within this scientific space.</li>
-      <li>Develop and leverage translational large animal (canine and feline) models of naturally occurring hepatobiliary and intestinal diseases to enhance animal and human health.</li>
-      <li>Promote lifelong academic curiosity within both the local and global scientific community through teaching, mentorship, synergistic learning, and discovery.</li>
-    </ul>
+      <ul>
+        <li>Enhance collaborative research efforts focused on gastrointestinal, liver, and pancreatic diseases of companion animals.</li>
+        <li>Build on the unique and diverse strengths of CHIRP investigators, the OSU CVM, and broader OSU community to integrate expertise within this scientific space.</li>
+        <li>Develop and leverage translational large animal (canine and feline) models of naturally occurring hepatobiliary and intestinal diseases to enhance animal and human health.</li>
+        <li>Promote lifelong academic curiosity within both the local and global scientific community through teaching, mentorship, synergistic learning, and discovery.</li>
+      </ul>
     </p>
 
     <p><strong>Core Values:</strong> Innovation, Collaboration, Transparency, Discovery, Credibility</p>
