@@ -4,48 +4,45 @@
   <meta charset="UTF-8">
   <title>CHIRP</title>
   <style>
-    body {
+    html, body {
       margin: 0;
       padding: 0;
       background-color: #fbfbf9;
-      font-family: sans-serif;
     }
+
+    img {
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+
     .navbar {
       background-color: #bf1331;
       padding: 10px;
     }
+
     .navbar a {
       margin-right: 15px;
       text-decoration: none;
       font-weight: bold;
       color: #fbfbf9;
     }
+
     .content {
-      padding: 0 20px;
-      max-width: 100%;
-    }
-    h1 {
+      padding: 20px;
       color: #333;
-      font-size: 32px;
-      margin-top: 20px;
-    }
-    p, li {
       font-size: 18px;
-      color: #333;
     }
   </style>
 </head>
 <body>
-
   <!-- Banner Image -->
-  <img src="https://github.com/user-attachments/assets/01ecaef4-a4eb-4eb8-8082-2a5a14c97853" 
-       alt="CHIRP Banner" 
-       style="width: 100%; height: auto; display: block; margin: 0; padding: 0;">
+![Red Simple Photo Graduation Class 2024 Greeting Banner (2)](https://github.com/user-attachments/assets/cb602d7a-e3b2-497d-a0b9-57cf5a0fe898)
 
   <!-- Navigation Bar -->
   <div class="navbar">
+    <a href="index.html">Home</a>
     <a href="our-team.html">Our Team</a>
-    <a href="publications.html">Publications</a>
     <a href="clinical-trials.html">Clinical Trials</a>
     <a href="conferences.html">Conferences</a>
     <a href="educational.html">Educational</a>
@@ -77,6 +74,5 @@
 
     <p><strong>Core Values:</strong> Innovation, Collaboration, Transparency, Discovery, Credibility</p>
   </div>
-
 </body>
 </html>
