@@ -10,8 +10,8 @@
       background-color: #fbfbf9;
       font-family: sans-serif;
 
-      /* Side graphics (repeat-y to tile vertically) */
-      background-image: url('[your-side-graphic.png](https://github.com/user-attachments/assets/be46ba88-436f-45bb-9bb5-ac0a1a12cdf1)'), url('![865691501450c0f375049d735024e497](https://github.com/user-attachments/assets/be46ba88-436f-45bb-9bb5-ac0a1a12cdf1)'); 
+      /* Replace the URLs below with your actual side graphic URL */
+      background-image: url('https://your-side-image-url.png'), url('https://your-side-image-url.png');
       background-repeat: repeat-y, repeat-y;
       background-position: left top, right top;
       background-size: 150px auto; /* Adjust width of side graphic */
@@ -30,10 +30,18 @@
       color: #fbfbf9;
     }
 
+    .banner {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+
     .content {
       max-width: 1000px;
       margin: 0 auto;
-      padding: 0 20px;
+      padding: 40px 20px;
       background-color: #fbfbf9;
     }
 
@@ -46,14 +54,6 @@
     p, li {
       font-size: 18px;
       color: #333;
-    }
-
-    img.banner {
-      width: 100%;
-      height: auto;
-      display: block;
-      margin: 0;
-      padding: 0;
     }
   </style>
 </head>
