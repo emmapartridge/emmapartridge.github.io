@@ -1,4 +1,3 @@
-Help me make the whole page fill the screen. Here is the current code:
 <img src="https://github.com/user-attachments/assets/01ecaef4-a4eb-4eb8-8082-2a5a14c97853" alt="CHIRP Banner" style="width: 100%; height: auto; display: block; margin: 0 auto;">
 <body style="b![Uploading Screenshot 2025-05-13 192548.png…]()
 ackground-color: #fbfbf9;">
