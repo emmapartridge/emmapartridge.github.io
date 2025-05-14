@@ -10,38 +10,33 @@
       background-color: #fbfbf9;
       font-family: sans-serif;
     }
-
-    /* Navigation Bar */
     .navbar {
       background-color: #bf1331;
-      padding: 15px 0;
+      padding: 10px;
       text-align: center;
     }
-
     .navbar a {
-      font-family: 'Segoe UI', 'Comic Sans MS', 'Verdana', sans-serif;
-      font-size: 20px;
+      margin-right: 20px; /* Adjusted space between links */
       text-decoration: none;
       font-weight: bold;
       color: #fbfbf9;
-      margin: 0 25px; /* Increased spacing between links */
+      font-size: 22px; /* Increased font size */
     }
-
-    /* Content Area */
     .content {
-      margin: 2in; /* 2-inch margin for the text under the image */
-      max-width: 100%;
+      margin: 3in; /* 3 inch margin for content below the image */
     }
-
     h1 {
       color: #333;
       font-size: 32px;
-      margin-top: 20px;
+      margin-top: 0; /* No extra margin at the top */
     }
-
     p, li {
       font-size: 18px;
       color: #333;
+    }
+    /* Add spacing between the image and content */
+    .image-banner {
+      margin-bottom: 20px; /* Adjust to control space between banner and text */
     }
   </style>
 </head>
@@ -58,16 +53,15 @@
   </div>
 
   <!-- Image Banner -->
-  <div>
+  <div class="image-banner">
     <img src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" 
-         alt="CHIRP Banner" 
-         style="width: 100%; height: auto; display: block; margin: 0; padding: 0;">
+         alt="chirp-banner.jpg" 
+         style="width: 100%; height: auto; display: block; margin: 0;">
   </div>
 
-  <!-- Content -->
+  <!-- Content Below -->
   <div class="content">
     <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
-
     <p>
       CHIRP is comprised of a team of basic research and clinician scientists at the forefront of cutting-edge research and innovative study design.
       CHIRP was developed to streamline multidisciplinary research with a specific focus on team science.
@@ -85,7 +79,7 @@
 
     <p>
       <strong>Strategic Goals:</strong>
-      <ul style="padding-left: 40px;">
+      <ul>
         <li>Enhance collaborative research efforts focused on gastrointestinal, liver, and pancreatic diseases of companion animals.</li>
         <li>Build on the unique and diverse strengths of CHIRP investigators, the OSU CVM, and broader OSU community to integrate expertise within this scientific space.</li>
         <li>Develop and leverage translational large animal (canine and feline) models of naturally occurring hepatobiliary and intestinal diseases to enhance animal and human health.</li>
@@ -97,5 +91,6 @@
       <strong>Core Values:</strong> Innovation, Collaboration, Transparency, Discovery, Credibility
     </p>
   </div>
+
 </body>
 </html>
