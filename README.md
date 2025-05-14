@@ -1,8 +1,11 @@
 <body style="background-color: #fbfbf9;">
+  <!-- Image above the Navigation Bar -->
+  <img src="path/to/your/image.jpg" alt="![Red Simple Photo Graduation Class 2024 Greeting Banner (2)](https://github.com/user-attachments/assets/52850064-e76d-4acb-bf32-7f426d60b676)" style="width: 100%; height: auto;">
+
   <!-- Navigation Bar -->
   <div style="background-color: #bf1331; padding: 10px;"> 
     <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Our Team</a>
-     <a href="publications.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Publications</a>
+    <a href="publications.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Publications</a>
     <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Clinical Trials</a>
     <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Conferences</a>
     <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Educational</a>
