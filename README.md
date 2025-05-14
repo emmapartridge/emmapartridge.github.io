@@ -9,48 +9,26 @@
       padding: 0;
       background-color: #fbfbf9;
       font-family: sans-serif;
-
-      /* Replace the URLs below with your actual side graphic URL */
-      background-image: url('https://your-side-image-url.png'), url('https://your-side-image-url.png');
-      background-repeat: repeat-y, repeat-y;
-      background-position: left top, right top;
-      background-size: 150px auto; /* Adjust width of side graphic */
     }
-
     .navbar {
       background-color: #bf1331;
       padding: 10px;
-      text-align: center;
     }
-
     .navbar a {
-      margin: 0 15px;
+      margin-right: 15px;
       text-decoration: none;
       font-weight: bold;
       color: #fbfbf9;
     }
-
-    .banner {
-      width: 100%;
-      height: auto;
-      display: block;
-      margin: 0;
-      padding: 0;
-    }
-
     .content {
-      max-width: 1000px;
-      margin: 0 auto;
-      padding: 40px 20px;
-      background-color: #fbfbf9;
+      padding: 0 20px;
+      max-width: 100%;
     }
-
     h1 {
       color: #333;
       font-size: 32px;
       margin-top: 20px;
     }
-
     p, li {
       font-size: 18px;
       color: #333;
@@ -62,7 +40,7 @@
   <!-- Banner Image -->
   <img src="https://github.com/user-attachments/assets/01ecaef4-a4eb-4eb8-8082-2a5a14c97853" 
        alt="CHIRP Banner" 
-       class="banner">
+       style="width: 100%; height: auto; display: block; margin: 0; padding: 0;">
 
   <!-- Navigation Bar -->
   <div class="navbar">
