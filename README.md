@@ -1,6 +1,6 @@
 <body style="background-color: #fbfbf9;">
   <!-- Image above the Navigation Bar -->
-  <img src="path/to/your/image.jpg" alt="![Red Simple Photo Graduation Class 2024 Greeting Banner (2)](https://github.com/user-attachments/assets/52850064-e76d-4acb-bf32-7f426d60b676)" style="width: 100%; height: auto;">
+  <img src="![Red Simple Photo Graduation Class 2024 Greeting Banner (2)](https://github.com/user-attachments/assets/3e128b7d-12df-4cc4-9abd-41be09731e5a)" alt="![Red Simple Photo Graduation Class 2024 Greeting Banner (2)](https://github.com/user-attachments/assets/52850064-e76d-4acb-bf32-7f426d60b676)" style="width: 100%; height: auto;">
 
   <!-- Navigation Bar -->
   <div style="background-color: #bf1331; padding: 10px;"> 
