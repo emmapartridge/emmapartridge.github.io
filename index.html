@@ -11,67 +11,52 @@
       background-color: #fbfbf9;
       font-family: sans-serif;
     }
-
+    
     /* Navigation Bar */
     .navbar {
       background-color: #bf1331;
       padding: 10px;
       text-align: center;
     }
-
     .navbar a {
-      margin-right: 15px;
+      margin: 0 15px;
       text-decoration: none;
       font-weight: bold;
       color: #fbfbf9;
+      font-size: 18px;
     }
 
-    /* Banner Image Styling */
-    .banner-img {
+    /* CHIRP Banner */
+    .chirp-banner {
       width: 100%;
       height: auto;
       display: block;
-      margin: 0;
     }
 
-    /* Vertical Banner on Left and Right */
-    .margin-image-left, .margin-image-right {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      width: 20px; /* Adjust the width as needed */
-      background-color: #bf1331; /* Adjust the color as needed */
+    /* Background Image Section */
+    .background-section {
+      background-image: url('background.jpg');
+      background-size: cover;
+      background-position: center;
+      height: 400px; /* Adjust as needed */
+      padding: 0 3%; /* 3% padding on both sides */
+      text-align: center;
+      color: #fff;
     }
 
-    .margin-image-left {
-      left: 0;
-    }
-
-    .margin-image-right {
-      right: 0;
-    }
-
-    /* Main Content Area */
+    /* Content below the background image */
     .content {
-      padding: 0 3in; /* 3" margin on left and right */
-      margin-top: 20px; /* Space between the banner and content */
+      padding: 0 3%;
+      margin-top: 20px;
     }
-
     h1 {
       color: #333;
       font-size: 32px;
-      margin-top: 0;
+      margin-top: 20px;
     }
-
     p, li {
       font-size: 18px;
       color: #333;
-    }
-
-    /* Optional: Reduce margin below the image */
-    img {
-      display: block;
-      margin: 0 auto; /* Center the image horizontally */
     }
   </style>
 </head>
@@ -88,16 +73,23 @@
   </div>
 
   <!-- CHIRP Banner Image -->
-  <img src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="CHIRP Banner" class="banner-img">
+  <div>
+    <img class="chirp-banner" src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="CHIRP Banner">
+  </div>
 
-  <!-- Vertical Banner Images (Left and Right) -->
-  <div class="margin-image-left"></div>
-  <div class="margin-image-right"></div>
-
-  <!-- Main Content -->
-  <div class="content">
+  <!-- Background Image Section -->
+  <div class="background-section">
     <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
-    <p>CHIRP is comprised of a team of basic research and clinician scientists at the forefront of cutting-edge research and innovative study design. CHIRP was developed to streamline multidisciplinary research with a specific focus on team science. The axis of our program centers on the advancement of knowledge pertaining to gastrointestinal, hepatobiliary, and pancreatic diseases in dogs and cats, coupled with dedicated enhancement of animal and human health through translational scientific discoveries.</p>
+  </div>
+
+  <!-- Content Below the Background Image -->
+  <div class="content">
+    <p>
+      CHIRP is comprised of a team of basic research and clinician scientists at the forefront of cutting-edge research and innovative study design.
+      CHIRP was developed to streamline multidisciplinary research with a specific focus on team science.
+      The axis of our program centers on the advancement of knowledge pertaining to gastrointestinal, hepatobiliary, and pancreatic diseases in dogs and cats,
+      coupled with dedicated enhancement of animal and human health through translational scientific discoveries.
+    </p>
 
     <p><strong>Vision:</strong> Establish an integrated research team dedicated to leading multidisciplinary research endeavors aimed at enhancing hepatobiliary and intestinal comparative and translational medicine.</p>
 
