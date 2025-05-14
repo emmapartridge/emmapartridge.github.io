@@ -1,17 +1,17 @@
-<body style="background-color: #fbfbf9;">
-  <!-- Image Banner -->
-  <div style="text-align: center; padding: 20px;">
-    <img src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="chirp-banner.jpg" style="max-width: 100%; height: auto;">
-  </div>
-
+<body style="background-color: #fbfbf9; margin: 0; padding: 0;">
   <!-- Navigation Bar -->
-  <div style="background-color: #bf1331; padding: 10px;"> 
+  <div style="background-color: #bf1331; padding: 10px; margin: 0;">
     <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Our Team</a>
     <a href="publications.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Publications</a>
     <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Clinical Trials</a>
     <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Conferences</a>
     <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Educational</a>
     <a href="contact.html" style="text-decoration: none; font-weight: bold; color: #fbfbf9;">Contact Us</a>
+  </div>
+
+  <!-- Image Banner -->
+  <div style="text-align: center; padding: 0; margin: 0;">
+    <img src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="chirp-banner.jpg" style="max-width: 100%; height: auto; display: block; margin: 0;">
   </div>
   
   <h1 style="color: #333; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
