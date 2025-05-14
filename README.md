@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CHIRP</title>
   <style>
     body {
@@ -9,20 +10,31 @@
       padding: 0;
       background-color: #fbfbf9;
       font-family: sans-serif;
+      color: #333;
     }
     .navbar {
       background-color: #bf1331;
       padding: 10px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
     }
     .navbar a {
-      margin-right: 15px;
       text-decoration: none;
       font-weight: bold;
       color: #fbfbf9;
+      padding: 10px;
+    }
+    .navbar a:hover {
+      background-color: #9e1127; /* Darker shade for hover effect */
     }
     .content {
       padding: 0 20px;
       max-width: 100%;
+      box-sizing: border-box;
     }
     h1 {
       color: #333;
@@ -33,14 +45,19 @@
       font-size: 18px;
       color: #333;
     }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
   </style>
 </head>
 <body>
 
   <!-- Banner Image -->
-  <img src="https://github.com/user-attachments/assets/01ecaef4-a4eb-4eb8-8082-2a5a14c97853" 
-       alt="CHIRP Banner" 
-       style="width: 100%; height: auto; display: block; margin: 0; padding: 0;">
+  <img src="assets/banner.jpg" alt="CHIRP Banner">
 
   <!-- Navigation Bar -->
   <div class="navbar">
