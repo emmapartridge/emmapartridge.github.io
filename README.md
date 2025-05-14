@@ -1,14 +1,19 @@
 <body style="background-color: #fbfbf9;">
+  <!-- Image Banner -->
+  <div style="text-align: center; padding: 20px;">
+    <img src="![Red Simple Photo Graduation Class 2024 Greeting Banner](https://github.com/user-attachments/assets/098200df-a226-48df-9386-21b9cf34a0bf)" alt="Banner Image" style="max-width: 100%; height: auto;">
+  </div>
+
   <!-- Navigation Bar -->
   <div style="background-color: #bf1331; padding: 10px;"> 
     <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Our Team</a>
-     <a href="publications.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Publications</a>
+    <a href="publications.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Publications</a>
     <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Clinical Trials</a>
     <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Conferences</a>
     <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Educational</a>
     <a href="contact.html" style="text-decoration: none; font-weight: bold; color: #fbfbf9;">Contact Us</a>
   </div>
-
+  
   <h1 style="color: #333; font-size: 32px;">Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
 
   <p style="font-size: 18px; color: #333;">
