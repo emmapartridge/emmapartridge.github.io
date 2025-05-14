@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>CHIRP - Comparative Research Program</title>
+  <title>CHIRP Home</title>
   <style>
     body {
       margin: 0;
@@ -11,7 +11,7 @@
       font-family: Arial, sans-serif;
     }
 
-    img {
+    .banner {
       width: 100%;
       height: auto;
       display: block;
@@ -43,8 +43,8 @@
 </head>
 <body>
 
-  <!-- Banner Image -->
-  <img src="https://github.com/user-attachments/assets/52850064-e76d-4acb-bf32-7f426d60b676/your-image.jpg" alt="CHIRP Banner">
+  <!-- Correct Image Placement -->
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/images/banner.jpg" alt="CHIRP Banner" class="banner">
 
   <!-- Navigation Bar -->
   <div class="navbar">
@@ -56,7 +56,7 @@
     <a href="contact.html">Contact Us</a>
   </div>
 
-  <!-- Main Content -->
+  <!-- Page Content -->
   <div class="content">
     <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
 
