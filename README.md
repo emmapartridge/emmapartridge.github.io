@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/01ecaef4-a4eb-4eb8-8082-2a5a14c97853" alt="CHIRP Banner" style="width: 100%; height: auto; display: block; margin: 0; padding: 0;">
-<body style="b![Uploading Screenshot 2025-05-13 192548.png…]()
+<body style="b![Red Simple Photo Graduation Class 2024 Greeting Banner (1)](https://github.com/user-attachments/assets/d4cc6966-0fd9-42bf-9300-45297fadec95)
 <body background-color: #fbfbf9;">
 <!-- Navigation Bar -->
 <div style="background-color: #bf1331; padding: 10px;"> 
