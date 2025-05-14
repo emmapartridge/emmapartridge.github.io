@@ -1,7 +1,7 @@
 <body style="background-color: #fbfbf9;">
   <!-- Image Banner -->
   <div style="text-align: center; padding: 20px;">
-    <img src="![chirp-banner jpg](https://github.com/user-attachments/assets/1aea7db5-e4e2-4362-8189-cee1cddd3012)" alt="Banner Image" style="max-width: 100%; height: auto;">
+    <img src="![chirp-banner jpg](https://github.com/user-attachments/assets/1aea7db5-e4e2-4362-8189-cee1cddd3012)" alt="chirp-banner.jpg" style="max-width: 100%; height: auto;">
   </div>
 
   <!-- Navigation Bar -->
