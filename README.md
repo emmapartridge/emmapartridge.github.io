@@ -5,6 +5,7 @@
 <div style="background-color: #bf1331; padding: 10px;"> 
   <a href="index.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Home</a>
   <a href="our-team.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Our Team</a>
+  <a href="publications.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Publications</a>
   <a href="clinical-trials.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Clinical Trials</a>
   <a href="conferences.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Conferences</a>
   <a href="educational.html" style="margin-right: 15px; text-decoration: none; font-weight: bold; color: #fbfbf9;">Educational</a>
