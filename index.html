@@ -31,6 +31,7 @@
       width: 100%;
       height: auto;
       display: block;
+      margin: 0;
     }
 
     /* Background Image Section */
@@ -38,25 +39,28 @@
       background-image: url('background.jpg');
       background-size: cover;
       background-position: center;
-      height: 400px; /* Adjust as needed */
-      padding: 0 3%; /* 3% padding on both sides */
-      text-align: center;
+      padding: 0 3%; /* Padding on both sides */
       color: #fff;
+      text-align: center;
+      height: 100vh; /* Fill the viewport height */
     }
 
-    /* Content below the background image */
+    .background-text {
+      padding-top: 20px; /* To ensure there's space for the text */
+    }
+
+    /* Content Below the Background Image */
     .content {
       padding: 0 3%;
       margin-top: 20px;
+      color: #333;
     }
     h1 {
-      color: #333;
       font-size: 32px;
       margin-top: 20px;
     }
     p, li {
       font-size: 18px;
-      color: #333;
     }
   </style>
 </head>
@@ -79,7 +83,9 @@
 
   <!-- Background Image Section -->
   <div class="background-section">
-    <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
+    <div class="background-text">
+      <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
+    </div>
   </div>
 
   <!-- Content Below the Background Image -->
