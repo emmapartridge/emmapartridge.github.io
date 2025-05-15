@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>CHIRP Clinical Trials</title>
+  <title>CHIRP - Projects</title>
   <style>
     body {
       margin: 0;
@@ -12,6 +12,7 @@
       font-family: sans-serif;
     }
 
+    /* Navigation Bar */
     .navbar {
       background-color: #bf1331;
       padding: 10px;
@@ -26,34 +27,36 @@
       font-size: 18px;
     }
 
-    .header-banner {
+    /* CHIRP Banner */
+    .chirp-banner {
       width: 100%;
       height: auto;
       display: block;
       margin: 0;
     }
 
-    .content {
-      max-width: 800px;
+    /* Content Sections */
+    .content-section {
+      max-width: 600px;  /* narrower max width */
+      width: 95%;        /* wider relative width */
       margin: 40px auto;
       padding: 20px;
       background-color: #fbfbf9;
-      color: #333;
-    }
-
-    h1, h2 {
-      color: #bf1331;
       text-align: left;
+      border-radius: 8px;
+      box-sizing: border-box;
     }
 
-    ul {
+    .content-section h2 {
+      color: #bf1331;
+      margin-bottom: 15px;
+    }
+
+    .content-section ul {
       padding-left: 20px;
-    }
-
-    li {
       font-size: 18px;
       line-height: 1.6;
-      margin-bottom: 10px;
+      color: black;
     }
   </style>
 </head>
@@ -61,10 +64,9 @@
 
   <!-- Navigation Bar -->
   <div class="navbar">
-    <a href="index.html">Home</a>
     <a href="our-team.html">Our Team</a>
     <a href="publications.html">Publications</a>
-    <a href="projects.html">Projects</a>
+    <a href="projects.html">Clinical Trials</a>
     <a href="conferences.html">Conferences</a>
     <a href="educational.html">Educational</a>
     <a href="contact.html">Contact Us</a>
@@ -72,13 +74,11 @@
 
   <!-- CHIRP Banner -->
   <div>
-    <img class="header-banner" src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="CHIRP Banner" />
+    <img class="chirp-banner" src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="CHIRP Banner" />
   </div>
 
-  <!-- Page Content -->
-  <div class="content">
-    <h1>Clinical Trials</h1>
-
+  <!-- Open Enrollment Section -->
+  <div class="content-section">
     <h2>Open Enrollment</h2>
     <ul>
       <li>Impact of a multi-modal therapeutic approach on remission, outcome and relapse in canine chronic enteropathy</li>
@@ -86,19 +86,22 @@
       <li>The impacts of fecal microbiota transplantation on viral shedding dynamics and host inflammatory response in canine parvovirus-infected dogs</li>
       <li>Irritable Bowel Disease Fecal Sample Collection</li>
     </ul>
+  </div>
 
+  <!-- Closed Enrollment – Analysis and Publication Phase -->
+  <div class="content-section">
     <h2>Closed Enrollment – Analysis and Publication Phase</h2>
     <ul>
       <li>Feline SLIM</li>
       <li>Canine SLIM</li>
     </ul>
+  </div>
 
+  <!-- Upcoming Projects -->
+  <div class="content-section">
     <h2>Upcoming Projects</h2>
-    <ul>
-      <li>More studies coming soon!</li>
-    </ul>
+    <p>Details coming soon.</p>
   </div>
 
 </body>
 </html>
-
