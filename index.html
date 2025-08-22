@@ -2,124 +2,104 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>CHIRP</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CHIRP Research Group</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
       margin: 0;
-      padding: 0;
       background-color: #fbfbf9;
-      font-family: sans-serif;
+      font-family: 'Roboto', sans-serif;
+      color: #000;
     }
 
-    /* Navigation Bar */
+    .banner {
+      width: 100%;
+      background: url('banner.png') no-repeat center center;
+      background-size: cover;
+      height: 500px;
+      position: relative;
+    }
+
     .navbar {
-      background-color: #bf1331;
-      padding: 10px;
-      text-align: center;
+      position: absolute;
+      top: 120px; /* adjust to move navbar lower/higher */
+      left: 0;
+      right: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 80px; /* spacing between nav links */
+      z-index: 2;
     }
 
     .navbar a {
-      margin: 0 85px;
-      text-decoration: none;
-      font-weight: bold;
-      color: #fbfbf9;
-      font-size: 20px;
-    }
-
-    /* CHIRP Banner */
-    .chirp-banner {
-      width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 0 0 0;  /* no margin including bottom */
-    }
-
-    /* Background Section with Text Overlaid */
-    .background-section {
-      background-image: url('background.jpg');
-      background-size: cover;
-      background-position: center;
-      padding: 40px 0;
       color: black;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      min-height: 100vh;
-      box-sizing: border-box;
-      margin-top: 0; 
+      text-decoration: none;
+      font-size: 22px;
+      font-weight: 700;
     }
 
-    .background-content {
-      max-width: 1500px;  
-      width: 85%;      
-      margin: 0 auto;
-      text-align: left;
-      background-color: #fbfbf9; /* added # for correct color */
-      padding: 20px;
-      border-radius: 8px;
+    .navbar a:hover {
+      text-decoration: underline;
     }
 
-    .background-content h1 {
-      font-size: 32px;
-      margin-bottom: 20px;
-    }
-
-    .background-content p, 
-    .background-content li {
-      font-size: 18px;
+    .content {
+      max-width: 1600px;
+      margin: 60px auto;
+      padding: 0 100px; /* wider margins */
+      font-size: 20px;
       line-height: 1.6;
     }
 
-    .background-content ul {
-      padding-left: 20px;
+    .content h2 {
+      font-size: 26px;
+      margin-top: 40px;
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
 
-  <!-- Navigation Bar -->
-  <div class="navbar">
-    <a href="our-team.html">Our Team</a>
-    <a href="publications.html">Publications</a>
-    <a href="projects.html">Projects</a>
-    <a href="conferences.html">Conferences</a>
-    <a href="educational.html">Educational</a>
-    <a href="contact.html">Contact Us</a>
-  </div>
-
-  <!-- CHIRP Banner -->
-  <div>
-    <img class="chirp-banner" src="https://raw.githubusercontent.com/emmapartridge/emmapartridge.github.io/main/chirp-banner.jpg" alt="CHIRP Banner" />
-  </div>
-
-  <!-- Background Section with All Text -->
-  <div class="background-section">
-    <div class="background-content">
-      <h1>Comparative Hepatobiliary and Intestinal Research Program (CHIRP)</h1>
-
-      <p>
-        CHIRP is comprised of a team of basic research and clinician scientists at the forefront of cutting-edge research and innovative study design.
-        CHIRP was developed to streamline multidisciplinary research with a specific focus on team science.
-        The axis of our program centers on the advancement of knowledge pertaining to gastrointestinal, hepatobiliary, and pancreatic diseases in dogs and cats,
-        coupled with dedicated enhancement of animal and human health through translational scientific discoveries.
-      </p>
-
-      <p><strong>Vision:</strong> Establish an integrated research team dedicated to leading multidisciplinary research endeavors aimed at enhancing hepatobiliary and intestinal comparative and translational medicine.</p>
-
-      <p><strong>Mission:</strong> To advance collaborative research at the interface of animal and human health.</p>
-
-      <p><strong>Strategic Goals:</strong></p>
-      <ul>
-        <li>Enhance collaborative research efforts focused on gastrointestinal, liver, and pancreatic diseases of companion animals.</li>
-        <li>Build on the unique and diverse strengths of CHIRP investigators, the OSU CVM, and broader OSU community to integrate expertise within this scientific space.</li>
-        <li>Develop and leverage translational large animal (canine and feline) models of naturally occurring hepatobiliary and intestinal diseases to enhance animal and human health.</li>
-        <li>Promote lifelong academic curiosity within both the local and global scientific community through teaching, mentorship, synergistic learning, and discovery.</li>
-      </ul>
-
-      <p><strong>Core Values:</strong> Innovation, Collaboration, Transparency, Discovery, Credibility</p>
+  <div class="banner">
+    <div class="navbar">
+      <a href="our-team.html">Our Team</a>
+      <a href="#">Publications</a>
+      <a href="#">Projects</a>
+      <a href="#">Conferences</a>
+      <a href="#">Educational</a>
+      <a href="#">Contact Us</a>
     </div>
+  </div>
+
+  <div class="content">
+    <p>
+      CHIRP is comprised of a team of basic research and clinician scientists at the forefront of cutting-edge research and innovative study design. CHIRP was developed to streamline multidisciplinary research with a specific focus on team science. The axis of our program centers on the advancement of knowledge pertaining to gastrointestinal, hepatobiliary, and pancreatic diseases in dogs and cats, coupled with dedicated enhancement of animal and human health through translational scientific discoveries.
+    </p>
+
+    <h2>Vision</h2>
+    <p>
+      Establish an integrated research team dedicated to leading multidisciplinary research endeavors aimed at enhancing hepatobiliary and intestinal comparative and translational medicine.
+    </p>
+
+    <h2>Mission</h2>
+    <p>
+      To advance collaborative research at the interface of animal and human health.
+    </p>
+
+    <h2>Strategic Goals</h2>
+    <p>
+      Enhance collaborative research efforts focused on gastrointestinal, liver, and pancreatic diseases of companion animals.<br>
+      Build on the unique and diverse strengths of CHIRP investigators, the OSU CVM, and broader OSU community to integrate expertise within this scientific space.<br>
+      Develop and leverage translational large animal (canine and feline) models of naturally occurring hepatobiliary and intestinal diseases to enhance animal and human health.<br>
+      Promote lifelong academic curiosity within both the local and global scientific community through teaching, mentorship, synergistic learning, and discovery.
+    </p>
+
+    <h2>Core Values</h2>
+    <p>
+      Innovation, Collaboration, Transparency, Discovery, Credibility
+    </p>
   </div>
 
 </body>
